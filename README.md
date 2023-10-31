@@ -1,4 +1,4 @@
-This is a Shiny web application that allows you to analyze and visualize cumulative inflation data. The app provides the following features:
+## This is a Shiny web application that allows you to analyze and visualize cumulative inflation data. The app provides the following features:
 
 - Cumulative Inflation Analysis for a Selected Country.
 - Cumulative Inflation Histogram for Multiple Countries.
